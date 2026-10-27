@@ -2,7 +2,7 @@
 
 HoshinoBot **接头霸王**插件（猫猫头接头）：发一张图，bot 把猫猫头贴到检测到的脸上。
 
-原版来自 HOSHINO 群文件《街头霸王-缝纫包》（百度 api 接头 + opencv 接头二合一，见 `readme.txt` 与 `api模式添加头示意图.png`）。原版无公开仓库，本仓库在其基础上做了 NapCat 适配与检测优化。
+本仓库在[原版](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead)基础上做了 NapCat 适配与检测优化。
 
 ## 指令
 
